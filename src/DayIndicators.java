@@ -87,7 +87,7 @@ public class DayIndicators {
         }
         return temp;
     }
-
+//
     public static void maxTemperature(ArrayList<DayIndicators> arrayList, String outputFileName) {
         DayIndicators maxi = new DayIndicators("", -1000, 0, 0, 0);
         double avg = 0;

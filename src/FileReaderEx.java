@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class FileReaderEx {
-
+//
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String outputFileName = "Output.txt";
