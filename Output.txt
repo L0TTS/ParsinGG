@@ -1,0 +1,7 @@
+Max temperature was in 13/03/2021 at time 14.00 : 11,7 В°C
+Average temperature was : 9,4 В°C
+Minimum Humidity was in 20/03/2021 at time 17.00 : 31,0 %
+Average Humidity was : 48,5 %
+Max Wind Speed was in 13/03/2021 at time 16.00 : 47,2 km/h
+Average Wind Speed was : 39,6 km/h
+Max Wind Direction was WEST
